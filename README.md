@@ -15,7 +15,7 @@
 * lorem ipsum
 * lorem ipsum
 * lorem ipsum
-![alt text](https://github.com/Wiktor-prog/Portfolio_Wiktor/blob/master/images/2021-11-04%2014_35_17-Shop%20–%20Opera.png)
+![alt text](https://github.com/Wiktor-prog/Portfolio_Wiktor/blob/master/images/website%20screen.jpg)
 
 # Project 3: [Creative-Agency](https://github.com/Wiktor-prog/Creative-Agency)
 
