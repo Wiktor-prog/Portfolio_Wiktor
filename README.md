@@ -7,6 +7,7 @@
 * lorem ipsum
 * lorem ipsum
 * lorem ipsum
+* lorem ipsum
 
 
 # Project 2: [Shop-Website](https://github.com/Wiktor-prog/Shop-Website)
