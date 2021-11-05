@@ -12,7 +12,7 @@
 
 # Project 2: [Shop-Website](https://github.com/Wiktor-prog/Shop-Website)
 
-![alt text](https://github.com/Wiktor-prog/Portfolio_Wiktor/blob/master/images/website%20screen.jpg)
+![alt text](https://github.com/Wiktor-prog/Portfolio_Wiktor/blob/master/images/website%20screen.jpg?raw=true)
 
 
 * lorem ipsum
