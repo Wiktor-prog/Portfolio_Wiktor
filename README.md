@@ -30,7 +30,7 @@
 /////////////////////////////////////////////////////////////
 
 
-# Project 4:  [JavaBlog](https://github.com/Wiktor-prog/JavaBlog) 
+# Project 4:  [JavaScript-Blog](https://github.com/Wiktor-prog/JavaScript-Blog) 
 
 * using language :  HTML & CSS/SCSS & JAVASCRIPT
 * lorem ipsum
