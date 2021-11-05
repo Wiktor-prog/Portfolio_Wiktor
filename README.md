@@ -27,7 +27,32 @@
 
 
 /////////////////////////////////////////////////////////////
-/////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////// 
+
+
+# Project 4:  [WebsiteBlog](https://github.com/Wiktor-prog/WebsiteBlog) 
+
+* using language :  HTML & CSS/SCSS & JAVASCRIPT
+* lorem ipsum
+* lorem ipsum
+* lorem ipsum
+
+
+# Project 5: [Shop-Website](https://github.com/Wiktor-prog/Shop-Website)
+
+* using language :  HTML & CSS/SCSS & JAVASCRIPT
+* lorem ipsum 
+* lorem ipsum
+* lorem ipsum
+
+
+# Project 6: [Creative-Agency](https://github.com/Wiktor-prog/Creative-Agency)
+
+* using language :  HTML & CSS/SCSS & JAVASCRIPT
+* lorem ipsum
+* lorem ipsum
+* lorem ipsum
+
 
 
 
