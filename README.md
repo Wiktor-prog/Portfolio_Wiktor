@@ -38,7 +38,7 @@
 * lorem ipsum
 
 
-# Project 5: [Shop-Website](https://github.com/Wiktor-prog/Shop-Website)
+# Project 5: [book_App](https://github.com/Wiktor-prog/book_App)
 
 * using language :  HTML & CSS/SCSS & JAVASCRIPT
 * lorem ipsum 
@@ -46,7 +46,7 @@
 * lorem ipsum
 
 
-# Project 6: [Creative-Agency](https://github.com/Wiktor-prog/Creative-Agency)
+# Project 6: [Pizzeria](https://github.com/Wiktor-prog/Pizzeria)
 
 * using language :  HTML & CSS/SCSS & JAVASCRIPT
 * lorem ipsum
