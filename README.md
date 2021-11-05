@@ -4,7 +4,7 @@
 
 # Project 1:  [WebsiteBlog](https://github.com/Wiktor-prog/WebsiteBlog) 
 
-* lorem ipsum
+* using language :  HTML & CSS/SCSS
 * lorem ipsum
 * lorem ipsum
 * lorem ipsum
@@ -12,18 +12,21 @@
 
 # Project 2: [Shop-Website](https://github.com/Wiktor-prog/Shop-Website)
 
-* lorem ipsum
-* lorem ipsum
+* using language :  HTML & CSS/SCSS
+* lorem ipsum 
 * lorem ipsum
 * lorem ipsum
 
 
 # Project 3: [Creative-Agency](https://github.com/Wiktor-prog/Creative-Agency)
 
+* using language :  HTML & CSS/SCSS
 * lorem ipsum
 * lorem ipsum
 * lorem ipsum
-* lorem ipsum
+
+
+/////////////////////////////////////////
 
 
 
