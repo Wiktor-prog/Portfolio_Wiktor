@@ -33,3 +33,33 @@
 //////////////////////////////////////////////////////////////
 //////////////////////////////////////////////////////////////
 
+# SIMPLE PROJECTS: 
+
+
+# Project 1:   [Q-A-accordion](https://github.com/Wiktor-prog/Q-A-accordion)
+ 
+  * using language :  HTML & CSS/SCSS & JAVASCRIPT
+
+# Project 2:   [Brands-Slider](https://github.com/Wiktor-prog/Brands-Slider)
+ 
+  * using language :  HTML & CSS/SCSS & JAVASCRIPT
+
+# Project 3:   [simple-count](https://github.com/Wiktor-prog/simple-count)
+ 
+  * using language :  HTML & CSS/SCSS & JAVASCRIPT
+
+
+//////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////
+
+
+# WORKING WEBSITES
+
+# Project 1:   [EkspresowoService](https://github.com/Wiktor-prog/EkspresowoService)
+ 
+  * using language :  HTML & CSS/SCSS & JAVASCRIPT
+
+# Project 2:   [portfolio-website](https://github.com/Wiktor-prog/portfolio-website)
+ 
+  * using language :  HTML & CSS/SCSS & JAVASCRIPT
+
