@@ -10,7 +10,7 @@
  
   * using language :  HTML & CSS/SCSS & JAVASCRIPT
 
-# Project 2:   [Brands-Slider](https://github.com/Wiktor-prog/Brands-Slider)
+# Project 2:   [color-generator](https://github.com/Wiktor-prog/color-generator)
  
   * using language :  HTML & CSS/SCSS & JAVASCRIPT
 
