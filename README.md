@@ -54,8 +54,8 @@
   * using language :  HTML & CSS/ & JAVASCRIPT
   * https://www.ekspresowoserwis.pl
 
-# Project 2:   [portfolio-website](https://github.com/Wiktor-prog/portfolio-website)
+# Project 2:   [portfolio-website](https://github.com/Wiktor-prog/New-Protfolio-website)
  
   * using language :  HTML & CSS/ & JAVASCRIPT
-  * http://www.wiktor-ziejewski.website
+  * https://ziejewsky.pl
 
