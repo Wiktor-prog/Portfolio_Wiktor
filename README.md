@@ -51,11 +51,11 @@
 
 # Project 1:   [EkspresowoService](https://github.com/Wiktor-prog/EkspresowoService)
  
-  * using language :  HTML & CSS/ & JAVASCRIPT
+  * using language :  HTML & CSS/ & REACT
   * https://www.ekspresowoserwis.pl
 
 # Project 2:   [portfolio-website](https://github.com/Wiktor-prog/New-Protfolio-website)
  
-  * using language :  HTML & CSS/ & JAVASCRIPT
+  * using language :  HTML & CSS/ & REACT
   * https://ziejewsky.pl
 
